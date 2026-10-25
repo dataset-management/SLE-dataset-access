@@ -1,1 +1,16 @@
 # SLE-dataset-access
+Data access information
+
+This repository provides data access information for a manuscript submitted to Smart Learning Environments.
+
+Data description
+
+This study includes questionnaire responses, written responses, and focus-group interview data collected from secondary school students.
+
+Data availability
+
+The underlying data are not publicly accessible in decrypted form to protect participant confidentiality. Access to the data should be requested from the corresponding author. Requests will be considered in accordance with participant consent and applicable institutional requirements.
+
+Requesting access
+
+Researchers seeking access should contact the corresponding author, specifying the data requested and the proposed research use.
